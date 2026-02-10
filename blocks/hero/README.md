@@ -1,0 +1,1 @@
+Este es un README para el bloque de Hero
