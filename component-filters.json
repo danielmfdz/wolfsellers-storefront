@@ -21,9 +21,12 @@
       "hero",
       "cards",
       "columns",
+      "quote",
       "fragment",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "feature-card",
+      "alert"
     ]
   },
   {
